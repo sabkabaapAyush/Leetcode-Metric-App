@@ -15,6 +15,8 @@ Allows users to set daily, weekly, or monthly goals for solving problems or impr
 
 4.Responsive Design
 Works seamlessly across devices (desktop, tablet, mobile).
+
+
 -------------------------------------------------------------------------------------------------
 Technology Stack--
 HTML:
